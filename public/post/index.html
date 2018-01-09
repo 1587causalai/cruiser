@@ -82,6 +82,32 @@ We&rsquo;ll start with creating a new site with a very basic template.
 	<div class="list__content clearfix">
 		<header class="list__header">
 			<h3 class="list__title post__title ">
+				<a href="/post/what-you-need-to-do-deep-learning/" rel="bookmark">What you need to do deep learning?</a>
+			</h3>
+			<div class="list__meta meta">
+				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
+				<time class="list__meta-date" datetime="2018-01-09T00:00:00">January 09, 2018</time>
+			</div>
+		</header>
+		<div class="list__excerpt">
+			巡洋舰深度训练营材料
+深度学习需要什么？  本文根据文章 What you need to do deep learning __by Rachel Thomas 给出一个最简单的回答。
+经常有人会问：
+深度学习需要什么样的电脑？ 怎样入门深度学习？ 对于深度学习初学者，有什么建议？ 怎用应用深度学习技术到某个具体的问题？  这些问题其实就是
+ 深度学习需要什么样的硬件，软件，背景和数据？
+ 硬件 深度学习硬件很大的受益于游戏产业的高性能GPUs， 众多不同种类的显卡，我们推荐 Nvidia:
+如果你的电脑没有 GPU 或者不是英伟达的 GPU，那么你有以下几个选择使用 fast.ai 的 Crestle 云服务，亚马逊云， 阿里云等。使用起来有些麻烦，使用方法参考原文：http://www.fast.ai/2017/11/16/what-you-need/ 。
+ 软件 深度学习是一个新兴领域，软件库和工具包每天都在快速地提升。我们建议使用 Pytorch。为什么不推荐 Tensorflow 呢？ 主要原因是 Tensorflow 的动态计算图机制不成熟，其会话管理机制也有学习成本。Pytorch 适用于探索科研和快速开发模型原型， 它相对来说更容易理解和使用。原文总结了如下几个理由:
+ 易于调试 动态计算图更适用于自然语言处理 支持传统的面向对象编程风格 TensorFlow 的 上下文管理器和会话等机制需要我们花费额外的精力学习   背景 深度学习需要的基础主要包括两个部分：
+ 一年左右的编程经验 少量线性代数，微积分和概率论基础  虽然数学对学好深度学习极其重要，但是我们不建议在前期花太多时间在数学基础上。个人建议是直接看看西瓜书的数学附录， 花书中的数学基础部分。
+ 数据 在大众的印象中，训练一个深度学习模型动辄需要几百万的样本，然而这并不总是成立。很多时候我们利用 迁移学习(结合数据增强技术)，我们用几百上千个数据就可以训练一个很好的深度网路了。 例如， 在 medical start-up Enlitic， Jeremy Howard 领导的一个团队用 1000 个肺部CT扫描 图像， 训练出一个网络诊断肺癌，准确率比专家还要高！
+		</div>
+	</div>
+</article>
+<article class="list__item post clearfix">
+	<div class="list__content clearfix">
+		<header class="list__header">
+			<h3 class="list__title post__title ">
 				<a href="/post/2015-07-23-r-rmarkdown/" rel="bookmark">Hello R Markdown</a>
 			</h3>
 			<div class="list__meta meta">
@@ -200,6 +226,7 @@ similarities in go templates.</p>
 	<div class="widget__content">
 		<ul class="widget__list">
 			<li class="widget__item"><a class="widget__link" href="/post/creating-a-new-theme/">Creating a New Theme</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/what-you-need-to-do-deep-learning/">What you need to do deep learning?</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/2015-07-23-r-rmarkdown/">Hello R Markdown</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/zhihu-articles/">巡洋舰知乎专栏</a></li>
 			<li class="widget__item"><a class="widget__link" href="/post/our-team/">我们的团队</a></li>
@@ -213,6 +240,7 @@ similarities in go templates.</p>
 	<h4 class="widget__title">Categories</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/categories/deep-learning">Deep-Learning</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/development">Development</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/golang">Golang</a></li>
 			<li class="widget__item"><a class="widget__link" href="/categories/r">R</a></li>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning on 巡洋舰 Cruiser</title>
+    <link>/categories/deep-learning/</link>
+    <description>Recent content in Deep Learning on 巡洋舰 Cruiser</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What you need to do deep learning?</title>
+      <link>/post/what-you-need-to-do-deep-learning/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/what-you-need-to-do-deep-learning/</guid>
+      <description>巡洋舰深度训练营材料
+深度学习需要什么？  本文根据文章 What you need to do deep learning __by Rachel Thomas 给出一个最简单的回答。
+经常有人会问：
+深度学习需要什么样的电脑？ 怎样入门深度学习？ 对于深度学习初学者，有什么建议？ 怎用应用深度学习技术到某个具体的问题？  这些问题其实就是
+ 深度学习需要什么样的硬件，软件，背景和数据？
+ 硬件 深度学习硬件很大的受益于游戏产业的高性能GPUs， 众多不同种类的显卡，我们推荐 Nvidia:
+如果你的电脑没有 GPU 或者不是英伟达的 GPU，那么你有以下几个选择使用 fast.ai 的 Crestle 云服务，亚马逊云， 阿里云等。使用起来有些麻烦，使用方法参考原文：http://www.fast.ai/2017/11/16/what-you-need/ 。
+ 软件 深度学习是一个新兴领域，软件库和工具包每天都在快速地提升。我们建议使用 Pytorch。为什么不推荐 Tensorflow 呢？ 主要原因是 Tensorflow 的动态计算图机制不成熟，其会话管理机制也有学习成本。Pytorch 适用于探索科研和快速开发模型原型， 它相对来说更容易理解和使用。原文总结了如下几个理由:
+ 易于调试 动态计算图更适用于自然语言处理 支持传统的面向对象编程风格 TensorFlow 的 上下文管理器和会话等机制需要我们花费额外的精力学习   背景 深度学习需要的基础主要包括两个部分：
+ 一年左右的编程经验 少量线性代数，微积分和概率论基础  虽然数学对学好深度学习极其重要，但是我们不建议在前期花太多时间在数学基础上。个人建议是直接看看西瓜书的数学附录， 花书中的数学基础部分。
+ 数据 在大众的印象中，训练一个深度学习模型动辄需要几百万的样本，然而这并不总是成立。很多时候我们利用 迁移学习(结合数据增强技术)，我们用几百上千个数据就可以训练一个很好的深度网路了。 例如， 在 medical start-up Enlitic， Jeremy Howard 领导的一个团队用 1000 个肺部CT扫描 图像， 训练出一个网络诊断肺癌，准确率比专家还要高！</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,79 @@
+---
+title: What you need to do deep learning?
+author: Jared
+date: '2018-01-09'
+slug: what-you-need-to-do-deep-learning
+categories:
+  - deep learning
+tags: []
+---
+
+
+-----------------
+
+<img src = 'https://github.com/HeyangGong/datasharing/blob/master/logo1.jpg?raw=true', width = 80, align = 'left' >
+<br>
+<br>
+&nbsp; *巡洋舰深度训练营材料* 
+
+----------------------------------------
+
+
+<div class = "alert alert-info"><font size = 4>  *深度学习需要什么？*</font></div>
+
+
+本文根据文章 [What you need to do deep learning __by Rachel Thomas](http://www.fast.ai/2017/11/16/what-you-need/) 给出一个最简单的回答。
+
+经常有人会问：
+
+1. 深度学习需要什么样的电脑？
+2. 怎样入门深度学习？
+3. 对于深度学习初学者，有什么建议？
+4. 怎用应用深度学习技术到某个具体的问题？
+
+这些问题其实就是
+
+> 深度学习需要什么样的硬件，软件，背景和数据？
+
+## 硬件
+
+深度学习硬件很大的受益于游戏产业的高性能GPUs， 众多不同种类的显卡，我们推荐 Nvidia:
+
+<img src='http://www.fast.ai/images/gpu.jpg', width = 500>
+
+如果你的电脑没有 GPU 或者不是英伟达的 GPU，那么你有以下几个选择使用 fast.ai 的 Crestle 云服务，亚马逊云， 阿里云等。使用起来有些麻烦，使用方法参考原文：http://www.fast.ai/2017/11/16/what-you-need/ 。 
+
+## 软件
+
+
+
+深度学习是一个新兴领域，软件库和工具包每天都在快速地提升。我们建议使用 Pytorch。为什么不推荐 Tensorflow 呢？ 主要原因是 Tensorflow 的动态计算图机制不成熟，其会话管理机制也有学习成本。Pytorch 适用于**探索科研和快速开发模型原型**， 它相对来说更容易理解和使用。原文总结了如下几个理由:
+
+<img src='https://www.tertiarycourses.com.sg/media/catalog/product/cache/1/image/512x/040ec09b1e35df139433887a97daa66f/p/y/pytorch.png'>
+
+- 易于调试
+- 动态计算图更适用于自然语言处理
+- 支持传统的面向对象编程风格
+- TensorFlow 的 上下文管理器和会话等机制需要我们花费额外的精力学习
+
+
+## 背景
+
+深度学习需要的基础主要包括两个部分：
+
+- 一年左右的编程经验
+- 少量线性代数，微积分和概率论基础
+
+虽然数学对学好深度学习极其重要，但是我们不建议在前期花太多时间在数学基础上。个人建议是直接看看西瓜书的数学附录， 花书中的数学基础部分。
+
+<img src='http://img.alicdn.com/imgextra/i1/247466491/TB1cl97Xu2CK1JjSZFIXXa3OpXa_!!0-item_pic.jpg_300x300q50s150.jpg', width = 500>
+
+## 数据
+
+在大众的印象中，训练一个深度学习模型动辄需要几百万的样本，然而这并不总是成立。很多时候我们利用 **迁移学习(结合数据增强技术)**，我们用几百上千个数据就可以训练一个很好的深度网路了。 例如， 在 medical start-up Enlitic， Jeremy Howard 领导的一个团队用 1000 个肺部CT扫描 图像， 训练出一个网络[诊断肺癌](http://money.cnn.com/2015/03/12/technology/enlitic-technology/)，准确率比专家还要高！ 
+
+C++ 库 [Dlib](http://dlib.net/) 中的一个人脸检测例子，甚至只有4个训练样本！
+
+<img src='http://www.fast.ai/images/dlib-faces.jpg'>
+
+迁移学习和数据增强技术减少了深度学习模型对数据量的需求。当然还有其他方法， 例如生成对抗，深度强化学习等很多时候不需要大量的人工标注样本。而深度学习初学者需要用到的数据甚至直接集成在框架中（例如 Pytorch），直接调用就行。
