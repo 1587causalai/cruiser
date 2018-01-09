@@ -1,0 +1,31 @@
+baseurl = "/"
+title = "巡洋舰 Cruiser"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "Mainroad"
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+
+[Author]
+    name = "Cruiser"
+    bio = "巡洋舰团队是 what life will be like in the future, I don't know."
+    avatar = "img/avatar.png"
+
+
+[Params]
+    subtitle = "数据科学和人工智能应用" # Subtitle of your site
+    description = "description of our site" # Description of your site
+    opengraph = true
+    readmore = false # Show "Read more" button in list if true
+    leftsidebar = false # Move sidebar to the left side if true
+    authorbox = true
+    post_navigation = true
+    postSections = ["post"]
+
+
+[Params.widgets]
+    search = true # Enable "Search" widget
+    recent_articles = true # Enable "Recent arcticles" widget
+    categories = true # Enable "Categories" widget
+    tags = true # Enable "Tags" widget
+        tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
