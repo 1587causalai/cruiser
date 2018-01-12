@@ -1,32 +1,15 @@
 +++
 title = "About Us"
-date = "2014-04-09"
 menu = "main"
 +++
 
-这里可以写一篇文章介绍我们巡洋舰。
 
-Hugo is a static site engine written in Go.
+巡洋舰科技，致力于建立一个线上的人工智能实验室 ，力图用视频，图片，文字和Jupyter notebook代码构建一个在线交互的人工智能教学引擎，让所有人能够在最快最短的时间对数据挖掘，机器学习，深度学习直接上手实践，寻找符合自己需求的最短学习路径，进行知识的持续更新。 
 
+- 我们对涉及的全部知识点进行notebook代码实现，采用单刀直入的方法先让用户体验代码的总体效果，然后再分步骤详解，理解算法的数理本质，以及编程技巧。 用户可以轻松的利用我们已经构建的代码模块实现自己的算法。 
 
-It makes use of a variety of open source projects including:
+- 我们正在构建一部全国首例的系统性深度实战教程， 将深度学习的前沿应用案例库融入到系统里。  
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+- 社区支持，成立于2015年底的AI， 复杂系统跨学科社区， 力图用人工智能和量化建模的思维解读世界。社区经过三年的积累，拥有数千分布在各个领域的活跃用户，巡洋舰社区为学员把AI应用到各个产业提供桥梁
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
-
-## Setup
-
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
+- 我们的媒体平台混沌巡洋舰公众号，荟萃了巡洋舰专家在整个领域的长时间积累， 多数文章为独树一帜的原创文章。   

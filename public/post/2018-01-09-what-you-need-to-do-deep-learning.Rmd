@@ -37,9 +37,15 @@ tags: []
 
 ## 硬件
 
-深度学习硬件很大的受益于游戏产业的高性能GPUs， 众多不同种类的显卡，我们推荐 Nvidia:
 
 <img src='http://www.fast.ai/images/gpu.jpg', width = 500>
+*--> 一个很贵的GPU！*
+
+
+深度学习硬件很大的受益于游戏产业的高性能GPUs， 众多不同种类的显卡，我们推荐选择 Nvidia 公司的显卡。
+
+
+
 
 如果你的电脑没有 GPU 或者不是英伟达的 GPU，那么你有以下几个选择使用 fast.ai 的 Crestle 云服务，亚马逊云， 阿里云等。使用起来有些麻烦，使用方法参考原文：http://www.fast.ai/2017/11/16/what-you-need/ 。 
 
@@ -49,7 +55,7 @@ tags: []
 
 深度学习是一个新兴领域，软件库和工具包每天都在快速地提升。我们建议使用 Pytorch。为什么不推荐 Tensorflow 呢？ 主要原因是 Tensorflow 的动态计算图机制不成熟，其会话管理机制也有学习成本。Pytorch 适用于**探索科研和快速开发模型原型**， 它相对来说更容易理解和使用。原文总结了如下几个理由:
 
-<img src='https://www.tertiarycourses.com.sg/media/catalog/product/cache/1/image/512x/040ec09b1e35df139433887a97daa66f/p/y/pytorch.png'>
+<img src='https://www.tertiarycourses.com.sg/media/catalog/product/cache/1/image/512x/040ec09b1e35df139433887a97daa66f/p/y/pytorch.png', cap = 'gonggong'>
 
 - 易于调试
 - 动态计算图更适用于自然语言处理
