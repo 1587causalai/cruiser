@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on 巡洋舰 Cruiser</title>
+    <link>/categories/python/</link>
+    <description>Recent content in Python on 巡洋舰 Cruiser</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python for Everybody</title>
+      <link>/post/py4e/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/py4e/</guid>
+      <description>混沌巡洋舰深度学习训练营材料
+Python已日益成为人工智能世界的通用语言，使用python正日益像使用英语一样成为人人必回的通用技能（已经开始列入一些省份的英语提纲）。
+Python之所以能取得这样的江湖地位，第一是好学， 有时就像在说话， 二是它是个胶水语言，可以轻松承担起程序世界粘合剂的作用，三呢， 还是因为好学，结果很多人来贡献开源代码，使得出现了非常多优秀的开源库， 结果python开发几乎可以瞬间站在巨人的肩膀上， 那效率，就是飞一般的感觉了。
+人人都应该学点 python, 系统化的刻意训练掌握 python 是捷径！本文介绍一个非常优质的 python 学习系统 ———— PY4E。
+网址：https://www.py4e.com/
+该学习系统是针对小白的，不需要编程基础。建议前往网页版本查看此文。
+PY4E 是什么？ PY4E 就是 python for everybody 的缩写， 它一个非常优质的 python 学习系统，包含如下的内容
+ 模块化的 python 知识讲解 理论和代码紧密结合的在线教材 精心设计的 Coursera 专项课程  首先看看 PY4E 的模块系统
+ 模块化的 python 知识讲解    每个模块包含视频，slides和其他相关资料。例如正则表达式模块如下：
+  2, 理论和代码紧密结合的在线教材
+ 教材的每个章节，分别对应每个知识讲解模块。 教材地址：https://www.py4e.com/html3/
+  3, 精心设计的 Coursera 专项课程
+ 该专项总共包含4个小课程和一个 Capstone， 四个课程分别是：
+ Programming for Everybody (Getting Started with Python) Python Data Structures Using Python to Access Web Data Using Databases with Python  而 Capstone 是用项目来实践前面课程中内容，端对端的实现获取数据，处理数据和可视化数据！</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,3 +1,14 @@
+---
+title: Python for Everybody
+author: Jared
+date: '2018-01-16'
+slug: PY4E
+categories:
+  - python
+tags: []
+---
+
+
 
 
 <img src = 'https://github.com/HeyangGong/datasharing/blob/master/logo1.jpg?raw=true', width = 80, align = 'left' >
@@ -6,8 +17,6 @@
 &nbsp; *混沌巡洋舰深度学习训练营材料* 
 
 ----------------------------------------
-
-# Python for Everybody
 
 
 Python已日益成为人工智能世界的通用语言，使用python正日益像使用英语一样成为人人必回的通用技能（已经开始列入一些省份的英语提纲）。
