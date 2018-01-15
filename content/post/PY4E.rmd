@@ -42,18 +42,18 @@ Python之所以能取得这样的江湖地位，第一是好学， 有时就像�
 
 > 1. 模块化的 python 知识讲解
 
-![](images/python_home.png)
+![](../images/python_home.png)
 
 
 每个模块包含视频，slides和其他相关资料。例如正则表达式模块如下：
 
-![](images/modules.png)
+![](../images/modules.png)
 
 > 2, 理论和代码紧密结合的在线教材
 
 教材的每个章节，分别对应每个知识讲解模块。 教材地址：https://www.py4e.com/html3/
 
-![](images/textbook.png)
+![](../images/textbook.png)
 
 
 > 3, 精心设计的 Coursera 专项课程
@@ -67,7 +67,7 @@ Python之所以能取得这样的江湖地位，第一是好学， 有时就像�
 
 而 Capstone 是用项目来实践前面课程中内容，端对端的实现获取数据，处理数据和可视化数据！
 
-![](images/coursera.png)
+![](../images/coursera.png)
 
 
 
