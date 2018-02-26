@@ -7,6 +7,71 @@ categories:
   - Machine learning
 tags:
   - learn
+output: 
+  html_document: 
+    toc: yes
 ---
 
+
+从整体出发，看看课程的介绍： https://www.coursera.org/learn/ruhe-xuexi/home/info
+
+
+
+## 几个核心问题
+
+1. 课程介绍
+
+<img src="https://i.loli.net/2018/02/26/5a93a505231a7.png" alt="intro.png" title="intro.png" />
+
+课程包含知识点包括：
+
+- 大脑两种思维模式
+- 组块化
+- 在长期记忆里创建牢固的组块，解决拖延症，了解记忆
+- 提升学习能力的重要概念和技巧
+
+2. 导师介绍
+
+女老师有故事的女人，男老师是计算神经科学的学者。
+
+<img src="https://i.loli.net/2018/02/26/5a93a630d9f57.png" alt="metor.png" title="metor.png" />
+
+
+3. 什么是学习？
+
+人类的学习设计到多个维度，包括思维模式，组块化和记忆。知识是长在脑子里面牢固的神经连接，学习就是建立这种连接的过程。
+
+
+## Week 1: 学习的基本知识点
+
+第一周开头就介绍 focused mode VS diffuse mode
+
+
+<img src="https://i.loli.net/2018/02/26/5a93b3a74ca93.png" alt="focus.png" title="focus.png" />
+
+这个最基本的知识点。然后回答什么是学习，介绍学习的相关维度，包括**拖延症**，**记忆**，给出一个特别的提示作为悬念。
+
+- 拖延症
+
+<img src="https://i.loli.net/2018/02/26/5a93b18d5a2fd.png" alt="procrastination.png" title="procrastination.png" />
+
+- 记忆 Practice and spaced repetition
+
+<img src="https://i.loli.net/2018/02/26/5a93b34b5f691.png" alt="memory.png" title="memory.png" />
+
+
+And just as importantly, **exercise is surprisingly valuable** in helping improve both our memory and our ability to learn. 
+
+### 英语背诵
+
+Now as far as neuroscientists know right now, **you're either in the focused mode or the diffuse mode of thinking.** It seems you can't be in both thinking modes at the same time. **It's kind of like a coin. We can see either one side, or the other side of the coin.** But not both sides at the same time. **Being in one mode seems to limit your access to the other mode's way of thinking.**
+
+
+几个单词：
+
+<img src="https://i.loli.net/2018/02/26/5a93b0117a3da.png" alt="insular.png" title="insular.png" />
+
+
+
+<img width = 400 src="https://i.loli.net/2018/02/26/5a93b0d0a4817.png" alt="pomodoro.png" title="pomodoro.png" />
 
