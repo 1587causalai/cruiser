@@ -1,17 +1,13 @@
 ---
 title: Python for Everybody
-author: Jared
+author: Jared, Tie
 date: '2018-01-16'
-slug: PY4E
-categories:
-  - python
-tags: []
+
 ---
 
 
 
 
-<img src = 'https://github.com/HeyangGong/datasharing/blob/master/logo1.jpg?raw=true', width = 80, align = 'left' >
 
 <br>
 &nbsp; *混沌巡洋舰深度学习训练营材料* 
@@ -42,18 +38,19 @@ Python之所以能取得这样的江湖地位，第一是好学， 有时就像�
 
 > 1. 模块化的 python 知识讲解
 
-![](images/python_home.png)
+
+<img src="https://i.loli.net/2018/02/26/5a93a0e25fcd9.png" alt="1.png" title="1.png" />
 
 
 每个模块包含视频，slides和其他相关资料。例如正则表达式模块如下：
 
-![](images/modules.png)
+<img src="https://i.loli.net/2018/02/26/5a93a0e2693ab.png" alt="2.png" title="2.png" />
 
 > 2, 理论和代码紧密结合的在线教材
 
 教材的每个章节，分别对应每个知识讲解模块。 教材地址：https://www.py4e.com/html3/
 
-![](images/textbook.png)
+<img src="https://i.loli.net/2018/02/26/5a93a0e26dd65.png" alt="3.png" title="3.png" />
 
 
 > 3, 精心设计的 Coursera 专项课程
@@ -67,7 +64,7 @@ Python之所以能取得这样的江湖地位，第一是好学， 有时就像�
 
 而 Capstone 是用项目来实践前面课程中内容，端对端的实现获取数据，处理数据和可视化数据！
 
-![](images/coursera.png)
+<img src="https://i.loli.net/2018/02/26/5a93a0e27997d.png" alt="4.png" title="4.png" />
 
 
 
@@ -87,7 +84,7 @@ PY4E作为一个 内容丰富， 精心制作的 python 系统化刻意训练系
 
 
 
-## 局限性
+## Other things
 
 PY4E 有几个可能的不足之处：
 
@@ -95,5 +92,8 @@ PY4E 有几个可能的不足之处：
 2， 该课程的免费部分内容不够详细，如果不选修它的 Coursera 专项，光看在线教材，并不容易让一个小白快速掌握基础 Python 编程。  
 3， 通过它这个系统化训练，可以让小白快速掌握基础 Python 编程，但是内容深度可能不是很够。
 
-尽管 PY4E 有这些可能的不足之处，它的作为一个系统化的基础 python 编程训练体系值得推荐！
+每个人都有其不同的，最适合的，掌握基础python 编程的途径，可能对于某些人来说，PY4E 并没有什么效果，尽管 PY4E 有这些可能的不足之处。重点是：它的作为一个精心制作的，系统化的基础 python 编程训练体系值得推荐！
+
+更多 about PY4E 和基础 python 编程参考知乎： https://www.zhihu.com/question/36254617  
+网页版本查看此文。http://rpubs.com/Heyang_Gong/PY4E
 

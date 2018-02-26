@@ -1,0 +1,12 @@
+---
+title: Learn how to learn
+author: Jared
+date: '2018-02-26'
+slug: learn-how-to-learn
+categories:
+  - Machine learning
+tags:
+  - learn
+---
+
+

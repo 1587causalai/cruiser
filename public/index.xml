@@ -33,6 +33,15 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
+      <title>Learn how to learn</title>
+      <link>/post/learn-how-to-learn/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/learn-how-to-learn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Python for Everybody</title>
       <link>/post/py4e/</link>
       <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
@@ -46,10 +55,10 @@ Python之所以能取得这样的江湖地位，第一是好学， 有时就像�
 该学习系统是针对小白的，不需要编程基础。建议前往网页版本查看此文。
 PY4E 是什么？ PY4E 就是 python for everybody 的缩写， 它一个非常优质的 python 学习系统，包含如下的内容
  模块化的 python 知识讲解 理论和代码紧密结合的在线教材 精心设计的 Coursera 专项课程  首先看看 PY4E 的模块系统
- 模块化的 python 知识讲解    每个模块包含视频，slides和其他相关资料。例如正则表达式模块如下：
-  2, 理论和代码紧密结合的在线教材
+ 模块化的 python 知识讲解   每个模块包含视频，slides和其他相关资料。例如正则表达式模块如下：
+ 2, 理论和代码紧密结合的在线教材
  教材的每个章节，分别对应每个知识讲解模块。 教材地址：https://www.py4e.com/html3/
-  3, 精心设计的 Coursera 专项课程
+ 3, 精心设计的 Coursera 专项课程
  该专项总共包含4个小课程和一个 Capstone， 四个课程分别是：
  Programming for Everybody (Getting Started with Python) Python Data Structures Using Python to Access Web Data Using Databases with Python  而 Capstone 是用项目来实践前面课程中内容，端对端的实现获取数据，处理数据和可视化数据！</description>
     </item>
