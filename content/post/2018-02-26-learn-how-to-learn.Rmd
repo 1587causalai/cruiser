@@ -1,5 +1,5 @@
 ---
-title: Learn how to learn
+title: Learn how to learn(I)
 author: Jared
 date: '2018-02-26'
 slug: learn-how-to-learn
@@ -74,4 +74,5 @@ Now as far as neuroscientists know right now, **you're either in the focused mod
 
 
 <img width = 350 src="https://i.loli.net/2018/02/26/5a93b0d0a4817.png" alt="pomodoro.png" title="pomodoro.png" />
+
 
