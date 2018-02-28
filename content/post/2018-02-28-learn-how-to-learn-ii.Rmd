@@ -1,15 +1,14 @@
 ---
 title: learn how to learn(II): Chunking
-author: ''
+author: Jared
 date: '2018-02-28'
 slug: learn-how-to-learn-ii
 categories:
   - Machine learning
 tags:
   - learn
-description: ''
-thumbnail: ''
 ---
+
 
 
 <img src="https://i.loli.net/2018/02/27/5a957cf28df45.png" alt="chunk.png" title="chunk.png" />
