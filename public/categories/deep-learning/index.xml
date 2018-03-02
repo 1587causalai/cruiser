@@ -6,10 +6,21 @@
     <description>Recent content in Deep Learning on 巡洋舰 Cruiser</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>learn how to learn(week4): become better learner</title>
+      <link>/post/learn-how-to-learn-week4-become-better-learner/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/learn-how-to-learn-week4-become-better-learner/</guid>
+      <description>关于学习的几个 ground truth:
+ excise help you learn better, 比任何其他药物都有效。 practice make perfect only when you are prepared. practice can repair as well as train the brain.  学习会有些质变的过程，几种有效的学习技巧
+ learn using metaphor and analogy work profitably with teammates (teammates are your difuse mode) perform well on tests(需要同时使用发散模式和集中模式)  压力的时候，身体会分泌化学物质，把注意力转移到深呼吸上来控制紧张和焦虑。 Face your fears, have a “plan B”。</description>
+    </item>
     
     <item>
       <title>What you need to do deep learning?</title>
